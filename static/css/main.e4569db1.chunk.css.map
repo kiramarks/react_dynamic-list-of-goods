@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,iBACF,CAEA,UACE,gBAAiB,CACjB,WAAY,CACZ,WACF","file":"main.e4569db1.chunk.css","sourcesContent":[".good-list {\n  text-align: center;\n}\n\n.centered {\n  margin: 15px auto;\n  width: 400px;\n  height: 10px;\n}\n"]}
